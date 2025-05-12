@@ -167,3 +167,4 @@ pull request (PR) mechanism.
 * Biweekly Technical Steering Committee (TSC) Zoom meetings are on the [ASWF
   Calendar](https://calendar.openimageio.org) (click on the OpenImageIO
   meeting entries, every second Monday, to get the Zoom link, anyone may join)
+
